@@ -10,6 +10,7 @@ import { compareBirthdays, describeGap, type Comparison } from "@/lib/compare";
 import { fmtDate, fmtInt } from "@/lib/format";
 import { useNowMs, useToday } from "@/lib/hooks";
 import { Card, containerVariants } from "./Card";
+import { DateInput } from "./DateInput";
 import { MoonSvg } from "./MoonSvg";
 import { CompareStory, type CompareStoryData } from "./StoryCards";
 import { useStoryExport } from "./StoryHost";
@@ -151,6 +152,8 @@ export function CompareSection({ ctx }: { ctx: BirthContext }) {
   const [youName, setYouName] = useState("");
   const [name, setName] = useState("");
   const [date, setDate] = useState("");
+  /** Bumped on reset so the typed date input remounts empty. */
+  const [dateKey, setDateKey] = useState(0);
   const [error, setError] = useState("");
   const [person, setPerson] = useState<Person | null>(null);
   const dateRef = useRef<HTMLInputElement>(null);
@@ -173,6 +176,7 @@ export function CompareSection({ ctx }: { ctx: BirthContext }) {
     setPerson(null);
     setName("");
     setDate("");
+    setDateKey((k) => k + 1);
     setError("");
     // Wait a frame so the form is back in its place before focusing.
     requestAnimationFrame(() => dateRef.current?.focus({ preventScroll: true }));
@@ -213,24 +217,27 @@ export function CompareSection({ ctx }: { ctx: BirthContext }) {
             <span className="eyebrow mb-2 block">Their name (optional)</span>
             <input value={name} onChange={(e) => setName(e.target.value)} maxLength={40} placeholder="e.g. Maya" autoComplete="off" className={FIELD} />
           </label>
-          <label className="block min-w-0">
+          <div className="min-w-0">
             <span className="eyebrow mb-2 block">Their birth date</span>
-            <input
+            <DateInput
+              key={dateKey}
               id="compare-date"
-              ref={dateRef}
-              type="date"
-              value={date}
+              inputRef={dateRef}
+              label="Their birth date"
               min={MIN_DATE}
-              max={today || undefined}
-              onChange={(e) => {
-                setDate(e.target.value);
+              max={today}
+              error={error}
+              onChange={(iso) => {
+                setDate(iso);
                 setError("");
               }}
-              aria-invalid={!!error}
-              className={FIELD}
             />
-          </label>
-          <div className="flex items-end">
+          </div>
+          <div>
+            {/* Invisible label keeps the button level with the input box, whether or not an error shows below it. */}
+            <span aria-hidden className="eyebrow mb-2 hidden select-none opacity-0 sm:block">
+              &nbsp;
+            </span>
             <button
               type="submit"
               className="w-full rounded-2xl bg-gradient-to-b from-amber-soft to-amber px-7 py-3.5 font-serif text-lg tracking-wide text-[#1a1206] shadow-[0_0_40px_-10px_rgba(242,180,90,0.8)] transition hover:brightness-105 active:scale-[0.98]"
@@ -238,11 +245,6 @@ export function CompareSection({ ctx }: { ctx: BirthContext }) {
               Compare
             </button>
           </div>
-          {error && (
-            <p role="alert" className="text-sm text-red-300/90 sm:col-span-2">
-              {error}
-            </p>
-          )}
         </form>
       </div>
 

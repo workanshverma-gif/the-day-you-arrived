@@ -1,13 +1,14 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, CalendarDays } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { useState } from "react";
 import { MIN_DATE } from "@/lib/birthday";
 import type { Currency } from "@/lib/calculations";
 import { useToday } from "@/lib/hooks";
 import { searchCities, type GeoResult } from "@/lib/weather";
 import { CityInput } from "./CityInput";
+import { DateInput } from "./DateInput";
 import { ModeToggle } from "./ModeToggle";
 
 export interface Submission {
@@ -73,31 +74,26 @@ export function Landing({ mode, onModeChange, onSubmit }: Props) {
       </motion.p>
 
       <motion.form {...rise(0.8)} onSubmit={handleSubmit} noValidate className="glass mt-12 w-full max-w-md space-y-3 rounded-3xl p-5 text-left sm:p-6">
-        <label className="block">
+        <div>
           <span className="eyebrow mb-2 block">Date of birth</span>
-          <div className="relative">
-            <CalendarDays className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-amber/80" strokeWidth={1.5} />
-            <input
-              type="date"
-              value={date}
-              min={MIN_DATE}
-              max={today || undefined}
-              onChange={(e) => {
-                setDate(e.target.value);
-                setError("");
-              }}
-              aria-invalid={!!error}
-              className="w-full rounded-2xl border border-white/10 bg-black/30 py-3.5 pl-11 pr-4 text-foreground outline-none transition focus:border-amber/50 focus:ring-2 focus:ring-amber/20"
-            />
-          </div>
-        </label>
+          <DateInput
+            icon
+            autofillBirthday
+            label="Date of birth"
+            min={MIN_DATE}
+            max={today}
+            error={error}
+            onChange={(iso) => {
+              setDate(iso);
+              setError("");
+            }}
+          />
+        </div>
 
         <div>
           <span className="eyebrow mb-2 block">Birth city</span>
           <CityInput value={cityText} onValueChange={setCityText} selected={geo} onSelect={setGeo} />
         </div>
-
-        {error && <p role="alert" className="text-sm text-red-300/90">{error}</p>}
 
         <motion.button
           type="submit"
