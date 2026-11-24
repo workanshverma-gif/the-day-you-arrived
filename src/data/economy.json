@@ -1,0 +1,1929 @@
+{
+  "1950": {
+    "global": {
+      "housePrice": 7400,
+      "gasGallon": 0.27,
+      "movieTicket": 0.46,
+      "goldPerOz": 35,
+      "topMovie": "Cinderella",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A pocket watch & a fountain pen",
+      "sp500": 18,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 99,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.5,
+      "movieTicket": 0.5,
+      "bollywood": {
+        "movie": "Samadhi",
+        "song": "Gore Gore O Banke Chore — Samadhi"
+      }
+    }
+  },
+  "1951": {
+    "global": {
+      "housePrice": 7800,
+      "gasGallon": 0.27,
+      "movieTicket": 0.48,
+      "goldPerOz": 35,
+      "topMovie": "Quo Vadis",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A pocket watch & a fountain pen",
+      "sp500": 21,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 95,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.5,
+      "movieTicket": 0.5,
+      "bollywood": {
+        "movie": "Awaara",
+        "song": "Awaara Hoon — Awaara"
+      }
+    }
+  },
+  "1952": {
+    "global": {
+      "housePrice": 8100,
+      "gasGallon": 0.28,
+      "movieTicket": 0.5,
+      "goldPerOz": 35.1,
+      "topMovie": "The Greatest Show on Earth",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A pocket watch & a fountain pen",
+      "sp500": 24,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 90,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.5,
+      "movieTicket": 0.5,
+      "bollywood": {
+        "movie": "Aan",
+        "song": "Dil Mein Chhupake Pyar Ka Tufan — Aan"
+      }
+    }
+  },
+  "1953": {
+    "global": {
+      "housePrice": 8500,
+      "gasGallon": 0.28,
+      "movieTicket": 0.52,
+      "goldPerOz": 35.1,
+      "topMovie": "The Robe",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A pocket watch & a fountain pen",
+      "sp500": 28,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 86,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.6,
+      "movieTicket": 0.6,
+      "bollywood": {
+        "movie": "Anarkali",
+        "song": "Yeh Zindagi Usi Ki Hai — Anarkali"
+      }
+    }
+  },
+  "1954": {
+    "global": {
+      "housePrice": 8900,
+      "gasGallon": 0.29,
+      "movieTicket": 0.54,
+      "goldPerOz": 35.1,
+      "topMovie": "White Christmas",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 33,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 83,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.6,
+      "movieTicket": 0.6,
+      "bollywood": {
+        "movie": "Nagin",
+        "song": "Man Dole Mera Tan Dole — Nagin"
+      }
+    }
+  },
+  "1955": {
+    "global": {
+      "housePrice": 9400,
+      "gasGallon": 0.29,
+      "movieTicket": 0.56,
+      "goldPerOz": 35.1,
+      "topMovie": "Lady and the Tramp",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 38,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 79,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.6,
+      "movieTicket": 0.6,
+      "bollywood": {
+        "movie": "Shree 420",
+        "song": "Mera Joota Hai Japani — Shree 420"
+      }
+    }
+  },
+  "1956": {
+    "global": {
+      "housePrice": 9800,
+      "gasGallon": 0.29,
+      "movieTicket": 0.59,
+      "goldPerOz": 35.2,
+      "topMovie": "The Ten Commandments",
+      "techEra": "Vacuum Tubes & Radio",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 41,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 85,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.6,
+      "movieTicket": 0.7,
+      "bollywood": {
+        "movie": "C.I.D.",
+        "song": "Leke Pehla Pehla Pyar — C.I.D."
+      }
+    }
+  },
+  "1957": {
+    "global": {
+      "housePrice": 10300,
+      "gasGallon": 0.3,
+      "movieTicket": 0.61,
+      "goldPerOz": 35.2,
+      "topMovie": "The Bridge on the River Kwai",
+      "techEra": "Sputnik & Transistors",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 44,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 91,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.6,
+      "movieTicket": 0.7,
+      "bollywood": {
+        "movie": "Mother India",
+        "song": "Duniya Mein Hum Aaye Hain — Mother India"
+      }
+    }
+  },
+  "1958": {
+    "global": {
+      "housePrice": 10800,
+      "gasGallon": 0.3,
+      "movieTicket": 0.64,
+      "goldPerOz": 35.2,
+      "topMovie": "South Pacific",
+      "techEra": "Sputnik & Transistors",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 48,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 97,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.7,
+      "movieTicket": 0.7,
+      "bollywood": {
+        "movie": "Madhumati",
+        "song": "Suhana Safar Aur Yeh Mausam Haseen — Madhumati"
+      }
+    }
+  },
+  "1959": {
+    "global": {
+      "housePrice": 11300,
+      "gasGallon": 0.31,
+      "movieTicket": 0.66,
+      "goldPerOz": 35.3,
+      "topMovie": "Ben-Hur",
+      "techEra": "Sputnik & Transistors",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 52,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 104,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.7,
+      "movieTicket": 0.8,
+      "bollywood": {
+        "movie": "Anari",
+        "song": "Kisi Ki Muskurahaton Pe — Anari"
+      }
+    }
+  },
+  "1960": {
+    "global": {
+      "housePrice": 11900,
+      "gasGallon": 0.31,
+      "movieTicket": 0.69,
+      "goldPerOz": 35.3,
+      "topMovie": "Spartacus",
+      "techEra": "Sputnik & Transistors",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 56,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 111,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.7,
+      "movieTicket": 0.8,
+      "bollywood": {
+        "movie": "Mughal-E-Azam",
+        "song": "Pyar Kiya To Darna Kya — Mughal-E-Azam"
+      }
+    }
+  },
+  "1961": {
+    "global": {
+      "housePrice": 12700,
+      "gasGallon": 0.31,
+      "movieTicket": 0.75,
+      "goldPerOz": 35.7,
+      "topMovie": "One Hundred and One Dalmatians",
+      "techEra": "Space Race Begins",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 61,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 115,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.7,
+      "movieTicket": 0.9,
+      "bollywood": {
+        "movie": "Jab Pyar Kisi Se Hota Hai",
+        "song": "Jiya O Jiya Kuch Bol Do — Jab Pyar Kisi Se Hota Hai"
+      }
+    }
+  },
+  "1962": {
+    "global": {
+      "housePrice": 13600,
+      "gasGallon": 0.31,
+      "movieTicket": 0.81,
+      "goldPerOz": 36.2,
+      "topMovie": "How the West Was Won",
+      "techEra": "Space Race Begins",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 67,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 119,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.8,
+      "movieTicket": 0.9,
+      "bollywood": {
+        "movie": "Bees Saal Baad",
+        "song": "Kahin Deep Jale Kahin Dil — Bees Saal Baad"
+      }
+    }
+  },
+  "1963": {
+    "global": {
+      "housePrice": 14600,
+      "gasGallon": 0.31,
+      "movieTicket": 0.88,
+      "goldPerOz": 36.6,
+      "topMovie": "Cleopatra",
+      "techEra": "Space Race Begins",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 73,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 87,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.8,
+      "movieTicket": 1,
+      "bollywood": {
+        "movie": "Mere Mehboob",
+        "song": "Mere Mehboob Tujhe — Mere Mehboob"
+      }
+    }
+  },
+  "1964": {
+    "global": {
+      "housePrice": 15600,
+      "gasGallon": 0.31,
+      "movieTicket": 0.95,
+      "goldPerOz": 37.1,
+      "topMovie": "Goldfinger",
+      "techEra": "Space Race Begins",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 80,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 63,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.8,
+      "movieTicket": 1,
+      "bollywood": {
+        "movie": "Sangam",
+        "song": "Dost Dost Na Raha — Sangam"
+      }
+    }
+  },
+  "1965": {
+    "global": {
+      "housePrice": 16700,
+      "gasGallon": 0.31,
+      "movieTicket": 1.03,
+      "goldPerOz": 37.6,
+      "topMovie": "The Sound of Music",
+      "techEra": "Space Race Begins",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 88,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 73,
+      "sensex": null,
+      "usdInr": 4.76,
+      "petrolPerLitre": 0.9,
+      "movieTicket": 1.1,
+      "bollywood": {
+        "movie": "Waqt",
+        "song": "Aage Bhi Jane Na Tu — Waqt"
+      }
+    }
+  },
+  "1966": {
+    "global": {
+      "housePrice": 17900,
+      "gasGallon": 0.32,
+      "movieTicket": 1.12,
+      "goldPerOz": 38,
+      "topMovie": "Hawaii",
+      "techEra": "Color TV & Mainframes",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 87,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 84,
+      "sensex": null,
+      "usdInr": 7.5,
+      "petrolPerLitre": 0.9,
+      "movieTicket": 1.2,
+      "bollywood": {
+        "movie": "Phool Aur Patthar",
+        "song": "Sheesha Ho Ya Dil Ho — Aasha"
+      }
+    }
+  },
+  "1967": {
+    "global": {
+      "housePrice": 19100,
+      "gasGallon": 0.33,
+      "movieTicket": 1.22,
+      "goldPerOz": 38.5,
+      "topMovie": "The Jungle Book",
+      "techEra": "Color TV & Mainframes",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 87,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 117,
+      "sensex": null,
+      "usdInr": 7.51,
+      "petrolPerLitre": 1,
+      "movieTicket": 1.2,
+      "bollywood": {
+        "movie": "Upkar",
+        "song": "Mere Desh Ki Dharti — Upkar"
+      }
+    }
+  },
+  "1968": {
+    "global": {
+      "housePrice": 20400,
+      "gasGallon": 0.34,
+      "movieTicket": 1.32,
+      "goldPerOz": 39,
+      "topMovie": "2001: A Space Odyssey",
+      "techEra": "Color TV & Mainframes",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 86,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 162,
+      "sensex": null,
+      "usdInr": 7.53,
+      "petrolPerLitre": 1,
+      "movieTicket": 1.3,
+      "bollywood": {
+        "movie": "Aankhen",
+        "song": "Milti Hai Zindagi Mein Mohabbat — Aankhen"
+      }
+    }
+  },
+  "1969": {
+    "global": {
+      "housePrice": 21900,
+      "gasGallon": 0.35,
+      "movieTicket": 1.43,
+      "goldPerOz": 37.7,
+      "topMovie": "Butch Cassidy and the Sundance Kid",
+      "techEra": "Moon Landing Era",
+      "pocket": "A transistor radio & a pocket comb",
+      "sp500": 86,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 173,
+      "sensex": null,
+      "usdInr": 7.54,
+      "petrolPerLitre": 1.1,
+      "movieTicket": 1.4,
+      "bollywood": {
+        "movie": "Aradhana",
+        "song": "Mere Sapno Ki Rani — Aradhana"
+      }
+    }
+  },
+  "1970": {
+    "global": {
+      "housePrice": 23400,
+      "gasGallon": 0.36,
+      "movieTicket": 1.55,
+      "goldPerOz": 36.4,
+      "topMovie": "Love Story",
+      "techEra": "Pocket Calculators Arrive",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 85,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 184,
+      "sensex": null,
+      "usdInr": 7.56,
+      "petrolPerLitre": 1.1,
+      "movieTicket": 1.5,
+      "bollywood": {
+        "movie": "Johny Mera Naam",
+        "song": "Pal Bhar Ke Liye — Johny Mera Naam"
+      }
+    }
+  },
+  "1971": {
+    "global": {
+      "housePrice": 26000,
+      "gasGallon": 0.4,
+      "movieTicket": 1.64,
+      "goldPerOz": 41,
+      "topMovie": "Fiddler on the Roof",
+      "techEra": "Pocket Calculators Arrive",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 85,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 193,
+      "sensex": null,
+      "usdInr": 7.72,
+      "petrolPerLitre": 1.2,
+      "movieTicket": 1.7,
+      "bollywood": {
+        "movie": "Haathi Mere Saathi",
+        "song": "Chal Chal Chal Mere Saathi — Haathi Mere Saathi"
+      }
+    }
+  },
+  "1972": {
+    "global": {
+      "housePrice": 28800,
+      "gasGallon": 0.44,
+      "movieTicket": 1.73,
+      "goldPerOz": 58,
+      "topMovie": "The Godfather",
+      "techEra": "Pocket Calculators Arrive",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 85,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 202,
+      "sensex": null,
+      "usdInr": 7.89,
+      "petrolPerLitre": 1.4,
+      "movieTicket": 1.8,
+      "bollywood": {
+        "movie": "Seeta Aur Geeta",
+        "song": "Haan Ji Haan Maine Sharaab Pi Hai — Seeta Aur Geeta"
+      }
+    }
+  },
+  "1973": {
+    "global": {
+      "housePrice": 31900,
+      "gasGallon": 0.48,
+      "movieTicket": 1.83,
+      "goldPerOz": 97,
+      "topMovie": "The Exorcist",
+      "techEra": "Pocket Calculators Arrive",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 86,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 278,
+      "sensex": null,
+      "usdInr": 8.05,
+      "petrolPerLitre": 1.5,
+      "movieTicket": 2,
+      "bollywood": {
+        "movie": "Bobby",
+        "song": "Hum Tum Ek Kamre Mein Band Ho — Bobby"
+      }
+    }
+  },
+  "1974": {
+    "global": {
+      "housePrice": 35400,
+      "gasGallon": 0.53,
+      "movieTicket": 1.93,
+      "goldPerOz": 159,
+      "topMovie": "Blazing Saddles",
+      "techEra": "Pocket Calculators Arrive",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 86,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 506,
+      "sensex": null,
+      "usdInr": 8.22,
+      "petrolPerLitre": 1.7,
+      "movieTicket": 2.2,
+      "bollywood": {
+        "movie": "Roti Kapada Aur Makaan",
+        "song": "Baaki Kuch Bacha To Mehngai Maar Gayi — Roti Kapada Aur Makaan"
+      }
+    }
+  },
+  "1975": {
+    "global": {
+      "housePrice": 39300,
+      "gasGallon": 0.57,
+      "movieTicket": 2.04,
+      "goldPerOz": 161,
+      "topMovie": "Jaws",
+      "techEra": "Atari, VHS & Disco",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 86,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 540,
+      "sensex": null,
+      "usdInr": 8.4,
+      "petrolPerLitre": 1.9,
+      "movieTicket": 2.4,
+      "bollywood": {
+        "movie": "Sholay",
+        "song": "Yeh Dosti — Sholay"
+      }
+    }
+  },
+  "1976": {
+    "global": {
+      "housePrice": 43400,
+      "gasGallon": 0.64,
+      "movieTicket": 2.16,
+      "goldPerOz": 125,
+      "topMovie": "Rocky",
+      "techEra": "Atari, VHS & Disco",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 92,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 432,
+      "sensex": null,
+      "usdInr": 8.29,
+      "petrolPerLitre": 2.2,
+      "movieTicket": 2.7,
+      "bollywood": {
+        "movie": "Kabhie Kabhie",
+        "song": "Kabhi Kabhi Mere Dil Mein — Kabhie Kabhie"
+      }
+    }
+  },
+  "1977": {
+    "global": {
+      "housePrice": 47900,
+      "gasGallon": 0.72,
+      "movieTicket": 2.28,
+      "goldPerOz": 148,
+      "topMovie": "Star Wars",
+      "techEra": "Atari, VHS & Disco",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 98,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 544,
+      "sensex": null,
+      "usdInr": 8.18,
+      "petrolPerLitre": 2.5,
+      "movieTicket": 3,
+      "bollywood": {
+        "movie": "Amar Akbar Anthony",
+        "song": "My Name Is Anthony Gonsalves — Amar Akbar Anthony"
+      }
+    }
+  },
+  "1978": {
+    "global": {
+      "housePrice": 53000,
+      "gasGallon": 0.8,
+      "movieTicket": 2.41,
+      "goldPerOz": 193,
+      "topMovie": "Grease",
+      "techEra": "Atari, VHS & Disco",
+      "pocket": "A pocket calculator & mixtape cassettes",
+      "sp500": 104,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 685,
+      "sensex": null,
+      "usdInr": 8.07,
+      "petrolPerLitre": 2.8,
+      "movieTicket": 3.3,
+      "bollywood": {
+        "movie": "Muqaddar Ka Sikandar",
+        "song": "Salaam-E-Ishq — Muqaddar Ka Sikandar"
+      }
+    }
+  },
+  "1979": {
+    "global": {
+      "housePrice": 58500,
+      "gasGallon": 0.9,
+      "movieTicket": 2.55,
+      "goldPerOz": 307,
+      "topMovie": "Kramer vs. Kramer",
+      "techEra": "Atari, VHS & Disco",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 111,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 937,
+      "sensex": 120,
+      "usdInr": 7.97,
+      "petrolPerLitre": 3.2,
+      "movieTicket": 3.6,
+      "bollywood": {
+        "movie": "Mr. Natwarlal",
+        "song": "Pardesiya — Mr. Natwarlal"
+      }
+    }
+  },
+  "1980": {
+    "global": {
+      "housePrice": 64600,
+      "gasGallon": 1.19,
+      "movieTicket": 2.69,
+      "goldPerOz": 612,
+      "topMovie": "The Empire Strikes Back",
+      "techEra": "Arcades & Home Computers",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 118,
+      "aapl": null,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 1330,
+      "sensex": 135,
+      "usdInr": 7.86,
+      "petrolPerLitre": 3.7,
+      "movieTicket": 4,
+      "bollywood": {
+        "movie": "Qurbani",
+        "song": "Aap Jaisa Koi — Qurbani"
+      }
+    }
+  },
+  "1981": {
+    "global": {
+      "housePrice": 68100,
+      "gasGallon": 1.31,
+      "movieTicket": 2.81,
+      "goldPerOz": 460,
+      "topMovie": "Raiders of the Lost Ark",
+      "techEra": "Arcades & Home Computers",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 129,
+      "aapl": 0.17,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 1800,
+      "sensex": 180,
+      "usdInr": 8.58,
+      "petrolPerLitre": 4.2,
+      "movieTicket": 4.4,
+      "bollywood": {
+        "movie": "Kranti",
+        "song": "Zindagi Ki Na Toote Ladi — Kranti"
+      }
+    }
+  },
+  "1982": {
+    "global": {
+      "housePrice": 71800,
+      "gasGallon": 1.28,
+      "movieTicket": 2.94,
+      "goldPerOz": 376,
+      "topMovie": "E.T. the Extra-Terrestrial",
+      "techEra": "Arcades & Home Computers",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 142,
+      "aapl": 0.19,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 1645,
+      "sensex": 240,
+      "usdInr": 9.37,
+      "petrolPerLitre": 4.8,
+      "movieTicket": 4.8,
+      "bollywood": {
+        "movie": "Disco Dancer",
+        "song": "I Am a Disco Dancer — Disco Dancer"
+      }
+    }
+  },
+  "1983": {
+    "global": {
+      "housePrice": 75700,
+      "gasGallon": 1.25,
+      "movieTicket": 3.08,
+      "goldPerOz": 424,
+      "topMovie": "Return of the Jedi",
+      "techEra": "Arcades & Home Computers",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 155,
+      "aapl": 0.2,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 1800,
+      "sensex": 320,
+      "usdInr": 10.23,
+      "petrolPerLitre": 5.4,
+      "movieTicket": 5.3,
+      "bollywood": {
+        "movie": "Coolie",
+        "song": "Tu Mera Jaanu Hai — Hero"
+      }
+    }
+  },
+  "1984": {
+    "global": {
+      "housePrice": 79900,
+      "gasGallon": 1.23,
+      "movieTicket": 3.22,
+      "goldPerOz": 361,
+      "topMovie": "Beverly Hills Cop",
+      "techEra": "Macintosh & Walkman Era",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 170,
+      "aapl": 0.22,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 1970,
+      "sensex": 427,
+      "usdInr": 11.17,
+      "petrolPerLitre": 6.2,
+      "movieTicket": 5.8,
+      "bollywood": {
+        "movie": "Sharaabi",
+        "song": "Inteha Ho Gayi Intezar Ki — Sharaabi"
+      }
+    }
+  },
+  "1985": {
+    "global": {
+      "housePrice": 84200,
+      "gasGallon": 1.2,
+      "movieTicket": 3.37,
+      "goldPerOz": 317,
+      "topMovie": "Back to the Future",
+      "techEra": "Macintosh & Walkman Era",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 186,
+      "aapl": 0.26,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 2130,
+      "sensex": 570,
+      "usdInr": 12.2,
+      "petrolPerLitre": 7,
+      "movieTicket": 6.3,
+      "bollywood": {
+        "movie": "Mard",
+        "song": "Sun Sahiba Sun — Ram Teri Ganga Maili"
+      }
+    }
+  },
+  "1986": {
+    "global": {
+      "housePrice": 90800,
+      "gasGallon": 0.93,
+      "movieTicket": 3.53,
+      "goldPerOz": 368,
+      "topMovie": "Top Gun",
+      "techEra": "Macintosh & Walkman Era",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 209,
+      "aapl": 0.31,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 2140,
+      "sensex": 610,
+      "usdInr": 13.11,
+      "petrolPerLitre": 7.3,
+      "movieTicket": 6.9,
+      "bollywood": {
+        "movie": "Karma",
+        "song": "Dil Diya Hai Jaan Bhi Denge — Karma"
+      }
+    }
+  },
+  "1987": {
+    "global": {
+      "housePrice": 98000,
+      "gasGallon": 0.98,
+      "movieTicket": 3.69,
+      "goldPerOz": 447,
+      "topMovie": "Three Men and a Baby",
+      "techEra": "Macintosh & Walkman Era",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 235,
+      "aapl": 0.36,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 2570,
+      "sensex": 653,
+      "usdInr": 14.09,
+      "petrolPerLitre": 7.6,
+      "movieTicket": 7.6,
+      "bollywood": {
+        "movie": "Mr. India",
+        "song": "Kate Nahin Katte — Mr. India"
+      }
+    }
+  },
+  "1988": {
+    "global": {
+      "housePrice": 105600,
+      "gasGallon": 1.04,
+      "movieTicket": 3.86,
+      "goldPerOz": 437,
+      "topMovie": "Rain Man",
+      "techEra": "Macintosh & Walkman Era",
+      "pocket": "A Sony Walkman & a cassette tape",
+      "sp500": 264,
+      "aapl": 0.35,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 3130,
+      "sensex": 699,
+      "usdInr": 15.15,
+      "petrolPerLitre": 7.9,
+      "movieTicket": 8.3,
+      "bollywood": {
+        "movie": "Tezaab",
+        "song": "Ek Do Teen — Tezaab"
+      }
+    }
+  },
+  "1989": {
+    "global": {
+      "housePrice": 113900,
+      "gasGallon": 1.1,
+      "movieTicket": 4.04,
+      "goldPerOz": 381,
+      "topMovie": "Batman",
+      "techEra": "Game Boy & Cassettes",
+      "pocket": "A Game Boy & a Walkman",
+      "sp500": 297,
+      "aapl": 0.34,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 3140,
+      "sensex": 748,
+      "usdInr": 16.28,
+      "petrolPerLitre": 8.2,
+      "movieTicket": 9.1,
+      "bollywood": {
+        "movie": "Maine Pyar Kiya",
+        "song": "Dil Deewana — Maine Pyar Kiya"
+      }
+    }
+  },
+  "1990": {
+    "global": {
+      "housePrice": 122900,
+      "gasGallon": 1.16,
+      "movieTicket": 4.23,
+      "goldPerOz": 384,
+      "topMovie": "Home Alone",
+      "techEra": "Game Boy & Cassettes",
+      "pocket": "A Game Boy & a Walkman",
+      "sp500": 334,
+      "aapl": 0.33,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 3200,
+      "sensex": 800,
+      "usdInr": 17.5,
+      "petrolPerLitre": 8.5,
+      "movieTicket": 10,
+      "bollywood": {
+        "movie": "Dil",
+        "song": "Mujhe Neend Na Aaye — Dil"
+      }
+    }
+  },
+  "1991": {
+    "global": {
+      "housePrice": 125000,
+      "gasGallon": 1.16,
+      "movieTicket": 4.33,
+      "goldPerOz": 362,
+      "topMovie": "Terminator 2: Judgment Day",
+      "techEra": "Game Boy & Cassettes",
+      "pocket": "A Game Boy & a Walkman",
+      "sp500": 368,
+      "aapl": 0.31,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 3466,
+      "sensex": 1500,
+      "usdInr": 19.79,
+      "petrolPerLitre": 9.8,
+      "movieTicket": 11.2,
+      "bollywood": {
+        "movie": "Saajan",
+        "song": "Mera Dil Bhi Kitna Pagal Hai — Saajan"
+      }
+    }
+  },
+  "1992": {
+    "global": {
+      "housePrice": 127200,
+      "gasGallon": 1.16,
+      "movieTicket": 4.44,
+      "goldPerOz": 344,
+      "topMovie": "Aladdin",
+      "techEra": "Game Boy & Cassettes",
+      "pocket": "A Game Boy & a Walkman",
+      "sp500": 405,
+      "aapl": 0.3,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4334,
+      "sensex": 3000,
+      "usdInr": 22.39,
+      "petrolPerLitre": 11.3,
+      "movieTicket": 12.5,
+      "bollywood": {
+        "movie": "Beta",
+        "song": "Dhak Dhak Karne Laga — Beta"
+      }
+    }
+  },
+  "1993": {
+    "global": {
+      "housePrice": 129400,
+      "gasGallon": 1.15,
+      "movieTicket": 4.55,
+      "goldPerOz": 360,
+      "topMovie": "Jurassic Park",
+      "techEra": "Dial-up & Pagers",
+      "pocket": "A pager & a Discman",
+      "sp500": 446,
+      "aapl": 0.28,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4140,
+      "sensex": 3000,
+      "usdInr": 25.32,
+      "petrolPerLitre": 13.1,
+      "movieTicket": 13.9,
+      "bollywood": {
+        "movie": "Baazigar",
+        "song": "Yeh Kaali Kaali Aankhen — Baazigar"
+      }
+    }
+  },
+  "1994": {
+    "global": {
+      "housePrice": 131600,
+      "gasGallon": 1.15,
+      "movieTicket": 4.66,
+      "goldPerOz": 384,
+      "topMovie": "The Lion King",
+      "techEra": "Dial-up & Pagers",
+      "pocket": "A pager & a Discman",
+      "sp500": 491,
+      "aapl": 0.29,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4598,
+      "sensex": 3000,
+      "usdInr": 28.64,
+      "petrolPerLitre": 15.1,
+      "movieTicket": 15.5,
+      "bollywood": {
+        "movie": "Hum Aapke Hain Koun..!",
+        "song": "Didi Tera Devar Deewana — Hum Aapke Hain Koun..!"
+      }
+    }
+  },
+  "1995": {
+    "global": {
+      "housePrice": 133900,
+      "gasGallon": 1.15,
+      "movieTicket": 4.77,
+      "goldPerOz": 384,
+      "topMovie": "Toy Story",
+      "techEra": "Dial-up & Pagers",
+      "pocket": "A pager & a Discman",
+      "sp500": 541,
+      "aapl": 0.31,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4680,
+      "sensex": 3000,
+      "usdInr": 32.4,
+      "petrolPerLitre": 17.5,
+      "movieTicket": 17.3,
+      "bollywood": {
+        "movie": "Dilwale Dulhania Le Jayenge",
+        "song": "Tujhe Dekha To Yeh Jaana Sanam — DDLJ"
+      }
+    }
+  },
+  "1996": {
+    "global": {
+      "housePrice": 139700,
+      "gasGallon": 1.21,
+      "movieTicket": 4.89,
+      "goldPerOz": 388,
+      "topMovie": "Independence Day",
+      "techEra": "Dial-up & Pagers",
+      "pocket": "A pager & a Discman",
+      "sp500": 682,
+      "aapl": 0.25,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 5160,
+      "sensex": 3400,
+      "usdInr": 34.58,
+      "petrolPerLitre": 19.2,
+      "movieTicket": 19.3,
+      "bollywood": {
+        "movie": "Raja Hindustani",
+        "song": "Pardesi Pardesi — Raja Hindustani"
+      }
+    }
+  },
+  "1997": {
+    "global": {
+      "housePrice": 145700,
+      "gasGallon": 1.28,
+      "movieTicket": 5.01,
+      "goldPerOz": 331,
+      "topMovie": "Titanic",
+      "techEra": "Dial-up & Flip Phones",
+      "pocket": "A pager & a Discman",
+      "sp500": 860,
+      "aapl": 0.17,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4725,
+      "sensex": 3350,
+      "usdInr": 36.92,
+      "petrolPerLitre": 21,
+      "movieTicket": 21.6,
+      "bollywood": {
+        "movie": "Dil To Pagal Hai",
+        "song": "Dil To Pagal Hai — Dil To Pagal Hai"
+      }
+    }
+  },
+  "1998": {
+    "global": {
+      "housePrice": 151900,
+      "gasGallon": 1.35,
+      "movieTicket": 5.13,
+      "goldPerOz": 294,
+      "topMovie": "Saving Private Ryan",
+      "techEra": "Dial-up & Flip Phones",
+      "pocket": "A Nokia 5110 & a Discman",
+      "sp500": 1085,
+      "aapl": 0.28,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4045,
+      "sensex": 3300,
+      "usdInr": 39.41,
+      "petrolPerLitre": 23,
+      "movieTicket": 24.1,
+      "bollywood": {
+        "movie": "Kuch Kuch Hota Hai",
+        "song": "Kuch Kuch Hota Hai — Kuch Kuch Hota Hai"
+      }
+    }
+  },
+  "1999": {
+    "global": {
+      "housePrice": 158500,
+      "gasGallon": 1.43,
+      "movieTicket": 5.26,
+      "goldPerOz": 279,
+      "topMovie": "Star Wars: The Phantom Menace",
+      "techEra": "Dial-up & Flip Phones",
+      "pocket": "A Nokia 5110 & a Discman",
+      "sp500": 1244,
+      "aapl": 0.55,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4234,
+      "sensex": 4300,
+      "usdInr": 42.06,
+      "petrolPerLitre": 25.1,
+      "movieTicket": 26.9,
+      "bollywood": {
+        "movie": "Hum Saath-Saath Hain",
+        "song": "Aankhon Ki Gustakhiyan — Hum Dil De Chuke Sanam"
+      }
+    }
+  },
+  "2000": {
+    "global": {
+      "housePrice": 165300,
+      "gasGallon": 1.51,
+      "movieTicket": 5.39,
+      "goldPerOz": 279,
+      "topMovie": "Mission: Impossible 2",
+      "techEra": "Napster & Nokia Bricks",
+      "pocket": "A Nokia 3310 & a burned CD",
+      "sp500": 1427,
+      "aapl": 0.85,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4400,
+      "sensex": 4800,
+      "usdInr": 44.9,
+      "petrolPerLitre": 27.5,
+      "movieTicket": 30,
+      "bollywood": {
+        "movie": "Kaho Naa... Pyaar Hai",
+        "song": "Kaho Naa Pyaar Hai — Kaho Naa... Pyaar Hai"
+      }
+    }
+  },
+  "2001": {
+    "global": {
+      "housePrice": 174700,
+      "gasGallon": 1.53,
+      "movieTicket": 5.58,
+      "goldPerOz": 271,
+      "topMovie": "Harry Potter and the Sorcerer's Stone",
+      "techEra": "Napster & Nokia Bricks",
+      "pocket": "A Nokia 3310 & a burned CD",
+      "sp500": 1191,
+      "aapl": 0.36,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4300,
+      "sensex": 3300,
+      "usdInr": 44.74,
+      "petrolPerLitre": 29.4,
+      "movieTicket": 33.2,
+      "bollywood": {
+        "movie": "Gadar: Ek Prem Katha",
+        "song": "Udja Kale Kawan — Gadar"
+      }
+    }
+  },
+  "2002": {
+    "global": {
+      "housePrice": 184500,
+      "gasGallon": 1.54,
+      "movieTicket": 5.78,
+      "goldPerOz": 310,
+      "topMovie": "Spider-Man",
+      "techEra": "Napster & Nokia Bricks",
+      "pocket": "A Nokia 3310 & a burned CD",
+      "sp500": 994,
+      "aapl": 0.25,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 4990,
+      "sensex": 3300,
+      "usdInr": 44.58,
+      "petrolPerLitre": 31.5,
+      "movieTicket": 36.8,
+      "bollywood": {
+        "movie": "Devdas",
+        "song": "Dola Re Dola — Devdas"
+      }
+    }
+  },
+  "2003": {
+    "global": {
+      "housePrice": 195000,
+      "gasGallon": 1.56,
+      "movieTicket": 5.98,
+      "goldPerOz": 363,
+      "topMovie": "Finding Nemo",
+      "techEra": "iPods & Early Facebook",
+      "pocket": "A Nokia 1100 & an iPod",
+      "sp500": 965,
+      "aapl": 0.23,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 5600,
+      "sensex": 4700,
+      "usdInr": 44.42,
+      "petrolPerLitre": 33.7,
+      "movieTicket": 40.8,
+      "bollywood": {
+        "movie": "Koi... Mil Gaya",
+        "song": "Idhar Chala Main Udhar Chala — Koi... Mil Gaya"
+      }
+    }
+  },
+  "2004": {
+    "global": {
+      "housePrice": 210800,
+      "gasGallon": 1.88,
+      "movieTicket": 6.19,
+      "goldPerOz": 410,
+      "topMovie": "Shrek 2",
+      "techEra": "iPods & Early Facebook",
+      "pocket": "A Nokia 1100 & an iPod",
+      "sp500": 1079,
+      "aapl": 0.45,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 5850,
+      "sensex": 5700,
+      "usdInr": 44.26,
+      "petrolPerLitre": 35.3,
+      "movieTicket": 45.1,
+      "bollywood": {
+        "movie": "Veer-Zaara",
+        "song": "Tere Liye — Veer-Zaara"
+      }
+    }
+  },
+  "2005": {
+    "global": {
+      "housePrice": 228000,
+      "gasGallon": 2.27,
+      "movieTicket": 6.41,
+      "goldPerOz": 445,
+      "topMovie": "Star Wars: Revenge of the Sith",
+      "techEra": "iPods & Early Facebook",
+      "pocket": "A Nokia 1100 & an iPod Nano",
+      "sp500": 1207,
+      "aapl": 1.6,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 7000,
+      "sensex": 8300,
+      "usdInr": 44.1,
+      "petrolPerLitre": 37,
+      "movieTicket": 50,
+      "bollywood": {
+        "movie": "No Entry",
+        "song": "Kajra Re — Bunty Aur Babli"
+      }
+    }
+  },
+  "2006": {
+    "global": {
+      "housePrice": 246500,
+      "gasGallon": 2.56,
+      "movieTicket": 6.68,
+      "goldPerOz": 604,
+      "topMovie": "Pirates of the Caribbean: Dead Man's Chest",
+      "techEra": "MySpace & Flip Phones",
+      "pocket": "A Motorola RAZR & an iPod",
+      "sp500": 1335,
+      "aapl": 2.3,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 8450,
+      "sensex": 11900,
+      "usdInr": 43.9,
+      "petrolPerLitre": 39.5,
+      "movieTicket": 54.2,
+      "bollywood": {
+        "movie": "Dhoom 2",
+        "song": "Dhoom Again — Dhoom 2"
+      }
+    }
+  },
+  "2007": {
+    "global": {
+      "housePrice": 236100,
+      "gasGallon": 2.9,
+      "movieTicket": 6.97,
+      "goldPerOz": 695,
+      "topMovie": "Spider-Man 3",
+      "techEra": "MySpace & Flip Phones",
+      "pocket": "A Motorola RAZR & an iPod",
+      "sp500": 1477,
+      "aapl": 4.3,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 10800,
+      "sensex": 14000,
+      "usdInr": 43.7,
+      "petrolPerLitre": 42.2,
+      "movieTicket": 58.8,
+      "bollywood": {
+        "movie": "Om Shanti Om",
+        "song": "Dard-E-Disco — Om Shanti Om"
+      }
+    }
+  },
+  "2008": {
+    "global": {
+      "housePrice": 226200,
+      "gasGallon": 3.27,
+      "movieTicket": 7.26,
+      "goldPerOz": 872,
+      "topMovie": "The Dark Knight",
+      "techEra": "iPhone & App Store",
+      "pocket": "An iPhone 3G & a BlackBerry",
+      "sp500": 1183,
+      "aapl": 4.6,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 12500,
+      "sensex": 14000,
+      "usdInr": 43.5,
+      "petrolPerLitre": 45,
+      "movieTicket": 63.8,
+      "bollywood": {
+        "movie": "Ghajini",
+        "song": "Guzarish — Ghajini"
+      }
+    }
+  },
+  "2009": {
+    "global": {
+      "housePrice": 216700,
+      "gasGallon": 2.35,
+      "movieTicket": 7.57,
+      "goldPerOz": 972,
+      "topMovie": "Avatar",
+      "techEra": "iPhone & App Store",
+      "pocket": "An iPhone 3G & a BlackBerry",
+      "sp500": 948,
+      "aapl": 5,
+      "btc": null
+    },
+    "india": {
+      "goldPer10g": 14500,
+      "sensex": 12000,
+      "usdInr": 44.59,
+      "petrolPerLitre": 46,
+      "movieTicket": 69.2,
+      "bollywood": {
+        "movie": "3 Idiots",
+        "song": "All Izz Well — 3 Idiots"
+      }
+    }
+  },
+  "2010": {
+    "global": {
+      "housePrice": 221800,
+      "gasGallon": 2.79,
+      "movieTicket": 7.89,
+      "goldPerOz": 1225,
+      "topMovie": "Toy Story 3",
+      "techEra": "iPhone & App Store",
+      "pocket": "An iPhone 4 & an Android",
+      "sp500": 1139,
+      "aapl": 9.3,
+      "btc": 0.1
+    },
+    "india": {
+      "goldPer10g": 18500,
+      "sensex": 18000,
+      "usdInr": 45.7,
+      "petrolPerLitre": 47,
+      "movieTicket": 75,
+      "bollywood": {
+        "movie": "Dabangg",
+        "song": "Munni Badnaam Hui — Dabangg"
+      }
+    }
+  },
+  "2011": {
+    "global": {
+      "housePrice": 233200,
+      "gasGallon": 3.53,
+      "movieTicket": 8,
+      "goldPerOz": 1572,
+      "topMovie": "Harry Potter and the Deathly Hallows: Part 2",
+      "techEra": "Instagram & Smartphones",
+      "pocket": "An iPhone 4 & an Android",
+      "sp500": 1287,
+      "aapl": 12.9,
+      "btc": 5
+    },
+    "india": {
+      "goldPer10g": 26400,
+      "sensex": 18000,
+      "usdInr": 49.65,
+      "petrolPerLitre": 63,
+      "movieTicket": 79.4,
+      "bollywood": {
+        "movie": "Bodyguard",
+        "song": "Teri Meri — Bodyguard"
+      }
+    }
+  },
+  "2012": {
+    "global": {
+      "housePrice": 245200,
+      "gasGallon": 3.63,
+      "movieTicket": 8.1,
+      "goldPerOz": 1669,
+      "topMovie": "The Avengers",
+      "techEra": "Instagram & Smartphones",
+      "pocket": "An iPhone 4 & an Android",
+      "sp500": 1455,
+      "aapl": 20,
+      "btc": 8
+    },
+    "india": {
+      "goldPer10g": 31050,
+      "sensex": 17500,
+      "usdInr": 53.94,
+      "petrolPerLitre": 67,
+      "movieTicket": 84.1,
+      "bollywood": {
+        "movie": "Ek Tha Tiger",
+        "song": "Mashallah — Ek Tha Tiger"
+      }
+    }
+  },
+  "2013": {
+    "global": {
+      "housePrice": 261100,
+      "gasGallon": 3.51,
+      "movieTicket": 8.21,
+      "goldPerOz": 1411,
+      "topMovie": "The Hunger Games: Catching Fire",
+      "techEra": "Instagram & Smartphones",
+      "pocket": "A smartphone & wired earbuds",
+      "sp500": 1644,
+      "aapl": 16,
+      "btc": 120
+    },
+    "india": {
+      "goldPer10g": 29600,
+      "sensex": 19500,
+      "usdInr": 58.6,
+      "petrolPerLitre": 70,
+      "movieTicket": 89.1,
+      "bollywood": {
+        "movie": "Dhoom 3",
+        "song": "Tum Hi Ho — Aashiqui 2"
+      }
+    }
+  },
+  "2014": {
+    "global": {
+      "housePrice": 278000,
+      "gasGallon": 3.36,
+      "movieTicket": 8.32,
+      "goldPerOz": 1266,
+      "topMovie": "Guardians of the Galaxy",
+      "techEra": "Selfies & Streaming",
+      "pocket": "A smartphone & wired earbuds",
+      "sp500": 1841,
+      "aapl": 23,
+      "btc": 530
+    },
+    "india": {
+      "goldPer10g": 28000,
+      "sensex": 25000,
+      "usdInr": 61.24,
+      "petrolPerLitre": 71,
+      "movieTicket": 94.4,
+      "bollywood": {
+        "movie": "PK",
+        "song": "Chittiyaan Kalaiyaan — Roy"
+      }
+    }
+  },
+  "2015": {
+    "global": {
+      "housePrice": 296000,
+      "gasGallon": 2.68,
+      "movieTicket": 8.43,
+      "goldPerOz": 1160,
+      "topMovie": "Star Wars: The Force Awakens",
+      "techEra": "Selfies & Streaming",
+      "pocket": "A smartphone & wired earbuds",
+      "sp500": 2061,
+      "aapl": 30,
+      "btc": 270
+    },
+    "india": {
+      "goldPer10g": 26300,
+      "sensex": 27000,
+      "usdInr": 64,
+      "petrolPerLitre": 62,
+      "movieTicket": 100,
+      "bollywood": {
+        "movie": "Bajrangi Bhaijaan",
+        "song": "Gerua — Dilwale"
+      }
+    }
+  },
+  "2016": {
+    "global": {
+      "housePrice": 305800,
+      "gasGallon": 2.14,
+      "movieTicket": 8.61,
+      "goldPerOz": 1251,
+      "topMovie": "Rogue One: A Star Wars Story",
+      "techEra": "Selfies & Streaming",
+      "pocket": "An iPhone 7 & AirPods",
+      "sp500": 2247,
+      "aapl": 26,
+      "btc": 570
+    },
+    "india": {
+      "goldPer10g": 29000,
+      "sensex": 26000,
+      "usdInr": 65.43,
+      "petrolPerLitre": 63,
+      "movieTicket": 104.7,
+      "bollywood": {
+        "movie": "Dangal",
+        "song": "Dangal — Dangal"
+      }
+    }
+  },
+  "2017": {
+    "global": {
+      "housePrice": 315900,
+      "gasGallon": 2.28,
+      "movieTicket": 8.79,
+      "goldPerOz": 1257,
+      "topMovie": "Star Wars: The Last Jedi",
+      "techEra": "TikTok & Smart Speakers",
+      "pocket": "An iPhone 7 & AirPods",
+      "sp500": 2449,
+      "aapl": 37,
+      "btc": 4000
+    },
+    "india": {
+      "goldPer10g": 29700,
+      "sensex": 31000,
+      "usdInr": 66.9,
+      "petrolPerLitre": 69,
+      "movieTicket": 109.5,
+      "bollywood": {
+        "movie": "Baahubali 2: The Conclusion",
+        "song": "Swag Se Swagat — Tiger Zinda Hai"
+      }
+    }
+  },
+  "2018": {
+    "global": {
+      "housePrice": 326400,
+      "gasGallon": 2.44,
+      "movieTicket": 8.97,
+      "goldPerOz": 1268,
+      "topMovie": "Black Panther",
+      "techEra": "TikTok & Smart Speakers",
+      "pocket": "An iPhone 7 & AirPods",
+      "sp500": 2671,
+      "aapl": 47,
+      "btc": 7500
+    },
+    "india": {
+      "goldPer10g": 31400,
+      "sensex": 35500,
+      "usdInr": 68.4,
+      "petrolPerLitre": 77,
+      "movieTicket": 114.7,
+      "bollywood": {
+        "movie": "Sanju",
+        "song": "Dilbar — Satyameva Jayate"
+      }
+    }
+  },
+  "2019": {
+    "global": {
+      "housePrice": 331600,
+      "gasGallon": 2.6,
+      "movieTicket": 9.16,
+      "goldPerOz": 1393,
+      "topMovie": "Avengers: Endgame",
+      "techEra": "TikTok & Smart Speakers",
+      "pocket": "An iPhone 11 & AirPods",
+      "sp500": 2913,
+      "aapl": 52,
+      "btc": 7400
+    },
+    "india": {
+      "goldPer10g": 35000,
+      "sensex": 39000,
+      "usdInr": 71.19,
+      "petrolPerLitre": 71,
+      "movieTicket": 120,
+      "bollywood": {
+        "movie": "War",
+        "song": "Bekhayali — Kabir Singh"
+      }
+    }
+  },
+  "2020": {
+    "global": {
+      "housePrice": 336900,
+      "gasGallon": 2.17,
+      "movieTicket": 9.6,
+      "goldPerOz": 1770,
+      "topMovie": "Bad Boys for Life",
+      "techEra": "Zoom & Lockdown Streaming",
+      "pocket": "An iPhone 12 & a face mask",
+      "sp500": 3218,
+      "aapl": 95,
+      "btc": 11000
+    },
+    "india": {
+      "goldPer10g": 48650,
+      "sensex": 36000,
+      "usdInr": 74.1,
+      "petrolPerLitre": 76,
+      "movieTicket": 110,
+      "bollywood": {
+        "movie": "Tanhaji",
+        "song": "Shankara Re Shankara — Tanhaji"
+      }
+    }
+  },
+  "2021": {
+    "global": {
+      "housePrice": 397100,
+      "gasGallon": 3.01,
+      "movieTicket": 10.05,
+      "goldPerOz": 1799,
+      "topMovie": "Spider-Man: No Way Home",
+      "techEra": "Zoom & Lockdown Streaming",
+      "pocket": "An iPhone 12 & a face mask",
+      "sp500": 4274,
+      "aapl": 140,
+      "btc": 47000
+    },
+    "india": {
+      "goldPer10g": 48700,
+      "sensex": 51000,
+      "usdInr": 76.32,
+      "petrolPerLitre": 93,
+      "movieTicket": 117.3,
+      "bollywood": {
+        "movie": "Sooryavanshi",
+        "song": "Raataan Lambiyan — Shershaah"
+      }
+    }
+  },
+  "2022": {
+    "global": {
+      "housePrice": 454900,
+      "gasGallon": 3.95,
+      "movieTicket": 10.53,
+      "goldPerOz": 1802,
+      "topMovie": "Top Gun: Maverick",
+      "techEra": "ChatGPT & Generative AI",
+      "pocket": "An iPhone 14 & AirPods",
+      "sp500": 4098,
+      "aapl": 154,
+      "btc": 28000
+    },
+    "india": {
+      "goldPer10g": 52700,
+      "sensex": 58500,
+      "usdInr": 78.6,
+      "petrolPerLitre": 96,
+      "movieTicket": 125,
+      "bollywood": {
+        "movie": "KGF: Chapter 2",
+        "song": "Toofan — KGF: Chapter 2"
+      }
+    }
+  },
+  "2023": {
+    "global": {
+      "housePrice": 430000,
+      "gasGallon": 3.52,
+      "movieTicket": 10.78,
+      "goldPerOz": 1943,
+      "topMovie": "Barbie",
+      "techEra": "ChatGPT & Generative AI",
+      "pocket": "An iPhone 14 & AirPods",
+      "sp500": 4284,
+      "aapl": 172,
+      "btc": 28500
+    },
+    "india": {
+      "goldPer10g": 58500,
+      "sensex": 64000,
+      "usdInr": 82.6,
+      "petrolPerLitre": 96.7,
+      "movieTicket": 130,
+      "bollywood": {
+        "movie": "Jawan",
+        "song": "Chaleya — Jawan"
+      }
+    }
+  },
+  "2024": {
+    "global": {
+      "housePrice": 420000,
+      "gasGallon": 3.3,
+      "movieTicket": 11.31,
+      "goldPerOz": 2386,
+      "topMovie": "Inside Out 2",
+      "techEra": "AI Everywhere Era",
+      "pocket": "A smartphone with AI built in",
+      "sp500": 5428,
+      "aapl": 210,
+      "btc": 66000
+    },
+    "india": {
+      "goldPer10g": 72000,
+      "sensex": 75000,
+      "usdInr": 83.7,
+      "petrolPerLitre": 94.7,
+      "movieTicket": 135,
+      "bollywood": {
+        "movie": "Pushpa 2: The Rule",
+        "song": "Aaj Ki Raat — Stree 2"
+      }
+    }
+  },
+  "2025": {
+    "global": {
+      "housePrice": 415000,
+      "gasGallon": 3.15,
+      "movieTicket": 11.5,
+      "goldPerOz": 3400,
+      "topMovie": "Zootopia 2",
+      "techEra": "AI Everywhere Era",
+      "pocket": "A smartphone with AI built in",
+      "sp500": 6200,
+      "aapl": 225,
+      "btc": 102000
+    },
+    "india": {
+      "goldPer10g": 98000,
+      "sensex": 80500,
+      "usdInr": 87,
+      "petrolPerLitre": 94.7,
+      "movieTicket": 137.5,
+      "bollywood": {
+        "movie": "Dhurandhar",
+        "song": "Saiyaara — Saiyaara"
+      }
+    },
+    "estimated": true
+  },
+  "2026": {
+    "global": {
+      "housePrice": 420000,
+      "gasGallon": 3.1,
+      "movieTicket": 11.8,
+      "goldPerOz": 4500,
+      "topMovie": "Toy Story 5",
+      "techEra": "AI Everywhere Era",
+      "pocket": "A smartphone with AI built in",
+      "sp500": 6800,
+      "aapl": 260,
+      "btc": 85000
+    },
+    "india": {
+      "goldPer10g": 130000,
+      "sensex": 80000,
+      "usdInr": 90,
+      "petrolPerLitre": 95,
+      "movieTicket": 140,
+      "bollywood": {
+        "movie": "Dhurandhar: The Revenge",
+        "song": "Year still unfolding"
+      }
+    },
+    "estimated": true
+  }
+}
